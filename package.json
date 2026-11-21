@@ -1,0 +1,13 @@
+{
+  "name": "kandimons",
+  "version": "1.0.0",
+  "description": "Kandimons - clone rosa do Rolimons com API de demonstracao",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
